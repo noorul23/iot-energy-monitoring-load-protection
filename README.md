@@ -65,8 +65,7 @@ The system is organized into four major functional groups:
 
 ### Architecture Diagram
 
-![System Architecture](./hardware/system_architecture.png)
-
+![System Architecture](./hardware/system_architecture.jpg)  
 ---
 
 ## System Workflow
