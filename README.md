@@ -86,7 +86,7 @@ During normal operation:
 
 ### Flowchart
 
-![System Flowchart](./hardware/system_flowchart.png)
+![System Flowchart](./hardware/system_flowchart.jpg)
 
 ---
 
@@ -122,10 +122,6 @@ The major peripheral connections are:
 | LCD | SCL | GPIO 22 | I2C |
 
 ![Circuit Diagram](./hardware/circuit_diagram.png)
-
-For additional hardware information, see:
-
-`hardware/pin_configuration.md`
 
 ---
 
