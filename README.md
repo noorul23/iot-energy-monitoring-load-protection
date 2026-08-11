@@ -86,7 +86,7 @@ During normal operation:
 
 ### Flowchart
 
-![System Flowchart](./hardware/system_flowchart.jpg)
+![System Flowchart](./hardware/system_flowchart.jpg) 
 
 ---
 
